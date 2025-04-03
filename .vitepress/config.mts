@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "DocTp2",
   description: "Documentation du tp2",
+  base: '/appweb_docs_trpr02_MatisFillion/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
